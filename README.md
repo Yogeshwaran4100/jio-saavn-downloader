@@ -128,9 +128,8 @@ Want to contribute? Great!
 
 
 ### Contributors
-  - Arun ( Discovering Vulnerability in Saavn App )
-  - [prabaprakash](https://github.com/prabaprakash/)
-  - [monuyadav016](https://github.com/monuyadav016)
+
+  - [Yogeshwaran.M](github.com/Yogeshwaran4100/)
 
 
 ## License
