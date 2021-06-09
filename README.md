@@ -129,7 +129,7 @@ Want to contribute? Great!
 
 ### Contributors
 
-  - [Yogeshwaran.M](github.com/Yogeshwaran4100/)
+  - [Yogeshwaran.M](https://github.com/Yogeshwaran4100)
 
 
 ## License
